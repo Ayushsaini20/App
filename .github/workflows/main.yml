@@ -21,8 +21,5 @@ jobs:
     - name: Install dependencies
       run: npm install
 
-    # - name: Build and test
-    #   run: npm test  # Adjust this command based on your testing needs
-
     - name: Run Node.js application
-      run: node index.js
+      run: npm start  # Run the application using the updated start script

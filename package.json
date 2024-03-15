@@ -4,7 +4,7 @@
   "description": "A description of your Node.js application",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js", // Update the start script to directly run the application
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Your Name",
